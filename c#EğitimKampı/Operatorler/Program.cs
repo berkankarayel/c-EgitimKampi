@@ -10,6 +10,7 @@ namespace Operatorler
 	{
 		static void Main(string[] args)
 		{
+            Console.WriteLine("selam");
 		}
 	}
 }
