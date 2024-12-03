@@ -10,7 +10,24 @@ namespace Ders1
 	{
 		static void Main(string[] args)
 		{
-            Console.WriteLine("bERKAN kARAYEL ");
+            Console.WriteLine("Hello world  ");
+			/*
+			 1-Objektif-Yönelimli (Object-Oriented):
+
+			 2-Tip Güvenliği (Type-Safe):
+
+             3-Yönetilen Kod (Managed Code):
+
+			 4-Platform Bağımsızlığı:
+
+			 5-Linq ve Veri İşleme Desteği:
+
+			 6-Exception Handling (Hata Yönetimi):
+
+			 7-Cross-Platform (Çok Platformlu):
+
+			 8-Gelişmiş Koleksiyonlar (Collections):
+			 */
 		}
 	}
 }
