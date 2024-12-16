@@ -43,8 +43,7 @@ namespace Static_ArrayList
                 Console.WriteLine(s);
 			}
 			
-			ArrayList koleksiyon = new ArrayList();
-			koleksiyon.
+			
 
 
 			Console.ReadKey();
