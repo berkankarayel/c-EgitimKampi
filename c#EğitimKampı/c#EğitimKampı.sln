@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kapsülleme (Encapsulation)
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static-ArrayList", "Static-ArrayList\Static-ArrayList.csproj", "{03194C86-D405-4CAB-A0E1-AF56BC353EF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArLst", "ArrayList\ArLst.csproj", "{A2CAD484-FBAA-470E-B956-14FAFAC3189D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARYlst", "ARYlst\ARYlst.csproj", "{4478E190-8707-4DE9-B397-C5EC91A7BA6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{03194C86-D405-4CAB-A0E1-AF56BC353EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03194C86-D405-4CAB-A0E1-AF56BC353EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03194C86-D405-4CAB-A0E1-AF56BC353EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2CAD484-FBAA-470E-B956-14FAFAC3189D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2CAD484-FBAA-470E-B956-14FAFAC3189D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2CAD484-FBAA-470E-B956-14FAFAC3189D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2CAD484-FBAA-470E-B956-14FAFAC3189D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4478E190-8707-4DE9-B397-C5EC91A7BA6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4478E190-8707-4DE9-B397-C5EC91A7BA6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4478E190-8707-4DE9-B397-C5EC91A7BA6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4478E190-8707-4DE9-B397-C5EC91A7BA6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
